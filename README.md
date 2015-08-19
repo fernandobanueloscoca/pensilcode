@@ -1,2 +1,3 @@
 # pensilcode
-actividades en pencildode
+## actividades en pencildode
+** este repositorio tiene ejemplos de pencil code**
